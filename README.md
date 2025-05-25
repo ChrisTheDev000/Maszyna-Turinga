@@ -1,0 +1,2 @@
+# Maszyna-Turinga
+Studencki program
